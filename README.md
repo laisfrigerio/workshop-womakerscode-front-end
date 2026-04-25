@@ -28,6 +28,16 @@ Resultado da construção da página HTML com estilização usando CSS
 
 - [W3Schools - CSS](https://www.w3schools.com/css/)
 
+### JavaScript
+
+Resultado da construção da página HTML com estilização usando CSS e iteratividade de busca utilizando o JavaScript
+
+<p align="center">
+  <a><img src="./javascript/resultado-final-aula-js.png" alt="Resultado da página HTML com estilização usando CSS e iteratividade com JS" title="Resultado da página HTML  com estilização usando CSS  e iteratividade com JS"></a>
+</p>
+
+- [W3Schools - JavaScript](https://www.w3schools.com/js/)
+
 ## 👩 Autora
 
 | [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://github.com/laisfrigerio)<br /> |
